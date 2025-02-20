@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphelwei&show_icons=true&count_private=true&include_all_commits=true&theme=onedark" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=raphelwei&layout=compact&langs_count=8&theme=onedark" />
+  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphelwei&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=raphelwei&layout=compact&langs_count=8&theme=gruvbox" />
 </p>
 
 <p align="center">
