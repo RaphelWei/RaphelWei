@@ -9,7 +9,6 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=raphelwei&layout=compact&langs_count=8&theme=gruvbox" />
 </p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
